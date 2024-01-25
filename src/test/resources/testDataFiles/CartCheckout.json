@@ -1,0 +1,21 @@
+{
+  "GC01": {
+    "dashboardHeaderShopTxt": "Shop",
+    "bookNameTxt": "Thinking in HTML",
+    "bookPriceTxt": "₹400.00"
+  },
+  "GC02": {
+    "dashboardHeaderShopTxt": "Shop",
+    "bookNameTxt": "Thinking in HTML",
+    "bookPriceTxt": "₹400.00",
+    "productNameTxt": "Thinking in HTML",
+    "productPriceTxt": "₹400.00"
+  },
+  "GC03": {
+    "dashboardHeaderShopTxt": "Shop",
+    "bookNameTxt": "Thinking in HTML",
+    "bookPriceTxt": "₹400.00",
+    "billingDetailsTitleTxt": "Billing Details",
+    "firstNameTxt": "First Name *"
+  }
+}
